@@ -19,7 +19,14 @@ The analysis is provided as a [marimo notebook](https://marimo.io/) and needs Py
 
 It is recommended to use a Python virtual environment before installing marimo, since it allows to automatically install further requirements.
 
-After installing marimo, the notebook can be opened by using the following command:
+After installing marimo using a virtual environment, it can be useful to open the notebook in edit mode first. This ensures that marimo can install the missing requirements:
+ ```
+cd /path/to/repository/
+$> marimo edit analysis2024.py
+```
+
+Afterwards, the notebook can also be opened by using the following command:
+
 ```
 cd /path/to/repository/
 $> marimo run analysis2024.py
