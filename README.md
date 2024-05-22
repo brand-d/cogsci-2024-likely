@@ -35,5 +35,7 @@ $> marimo run analysis2024.py
 ## References
 Brand, D., Todorovikj, S., & Ragni, M. (2024). Necessity, Possibility and Likelihood in Syllogistic Reasoning. In *Proceedings of the 46rd Annual Meeting of the Cognitive Science Society*.
 Brand, D., & Ragni, M. (2023). Effect of response format on syllogistic reasoning. In M. Goldwater, F. K. Anggoro, B. K. Hayes, & D. C. Ong (Eds.), *Proceedings of the 45th Annual Conference of the Cognitive Science Society*
+
 Evans, J., Handley, S., Harper, C., & Johnson-Laird, P. (1999). Reasoning about necessity and possibility: A test of the mental model theory of deduction. *Journal of Experimental Psychology: Learning, Memory, and Cognition*, 25, 1495-1513.
+
 Riesterer, N., Brand, D., & Ragni, M. (2020). Do models capture individuals? Evaluating parameterized models for syllogistic reasoning. In S. Denison, M. Mack, Y. Xu, & B. C. Armstrong (Eds.), *Proceedings of the 42nd Annual Conference of the Cognitive Science Society* (pp. 3377–3383). Toronto, ON: Cognitive Science Society
