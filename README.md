@@ -10,6 +10,8 @@ Companion repository for the 2024 article "Necessity, Possibility and Likelihood
 - `mreasoner`: Contains the cache files with predictions of mReasoner for all Syllogisms and conclusions (necessary and possible). To obtain the file, the [implementation](https://github.com/nriesterer/cogsci-individualization) provided with the 2020 paper "Do Models Capture Individuals? Evaluating Parameterized Models for Syllogistic Reasoning" by Riesterer, Brand & Ragni was used.
 - `mreasoner/necessary_full.npy`: Predictions of mReasoner for all Syllogisms and conclusions (necessary).
 - `mreasoner/possible_full.npy`: Predictions of mReasoner for all Syllogisms and conclusions (possible).
+- `poster`: Contains the poster as a PDF file.
+- `poster/cogsci2024_likely.pdf`: The poster as a PDF file.
 - `analysis2024.html`: Static HTML file showing the analysis exported from marimo.
 - `analysis2024.py`: Python file containing the marimo notebook with the analysis.
 
